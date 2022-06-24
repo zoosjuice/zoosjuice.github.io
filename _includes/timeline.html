@@ -3,11 +3,7 @@
 <link href="/css/timeline.css" rel="stylesheet" type="text/css">
 
 <div class="container-fluid">
-  <div class="header">
-    {% if site.data.timeline.title %}
-    <h2 class="timeline-title">{{ site.data.timeline.title }}Test</h2>
-    {% endif %}
-    
+  <div class="header">    
     <p>Timelines are a fun way to visualize someone's life and get to know them quickly. This is my timeline, as of <a href="#bottom" title="Scroll to bottom">{{ site.time | date: '%B %Y' }}</a>.
       {% if site.linkedin %}
         For professional milestones, see <a href="{{site.linkedin}}" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
