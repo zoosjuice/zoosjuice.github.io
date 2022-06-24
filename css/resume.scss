@@ -29,11 +29,11 @@ ul, ol {
             .header-name, .header-suffix {
                 font-weight: 400;
                 line-height: 1;
-                letter-spacing: -.1rem;
+                letter-spacing: 1rem;
             }
 
             .header-name {
-                font-size: 3rem;
+                font-size: 2rem;
             }
 
             .header-suffix {
@@ -54,8 +54,8 @@ ul, ol {
         .title-bar {
             border-top: 4px solid #c7c7c7;
             border-bottom: 2px solid #c7c7c7;
-            font-size: 1.75rem;
-            font-weight: 300;
+            font-size: 1.4rem;
+            font-weight: 400;
             margin-bottom: 1rem;
 
             .job-title {
@@ -239,7 +239,7 @@ ul, ol {
         .page-header {
             .header-title {
                 .header-name {
-                    font-size: 2.75rem;
+                    font-size: 1.7rem;
                 }
     
                 .header-suffix {
