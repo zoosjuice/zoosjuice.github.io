@@ -1,8 +1,9 @@
-Hi 👋🏼, I'm David
+Hi 👋🏼, and Welcome. I'm David.
 
+For context, I love everything entreprenuership, finance & tech. Sprinkle in some economics and we have something here.
 
-For context, I love entreprenuership, finance & tech. Some things that help describe me best.
+__At Sign Zoosjuice__ is a repository for perspectives I have gained through my journey from software engineer to entrepreneur to angel investor.
 
-*Venture Builder, Angel Investor, Startup Mentor, Trusted Advisor, Coach, Former Software Engineer*
+When not ruminating about markets and business ideas, I enjoy driving fast, off-roading, nature and action sports.
 
-__At Sign Zoosjuice__ is a repository for ideas & perspectives I have gained through my journey from software engineer to entrepreneur to investor. I am passionate about the art & science of investing. For the last 3 years I have been building a track record of investments and experience. I consider it my personal mission to educate everyday people about tech & finance.
+---
