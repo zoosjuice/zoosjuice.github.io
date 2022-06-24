@@ -21,10 +21,6 @@ linkedin_username: "davidkdejesus"
 theme: "minima"
 
 rss: rss
-
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
     
 plugins:
   - jekyll-feed
@@ -50,7 +46,7 @@ header_pages:
 google_analytics:
 
 gravatar_hash: 51daffbe4af5fdb243cba3611b0a011a
-code_block_max_height: 500px
+code_block_max_height: 900px
 
 home_post_limit: 5
 
@@ -58,7 +54,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: https://s.gravatar.com/avatar/51daffbe4af5fdb243cba3611b0a011a?s=800 # Apply default site image
+      image: https://s.gravatar.com/avatar/51daffbe4af5fdb243cba3611b0a011a?s=1000 # Apply default site image
   - scope:
       path: ""
       type: posts
