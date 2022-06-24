@@ -16,7 +16,7 @@ sections:
   projects:     true
   skills:       true
   recognition:  true
-  associations: false
+  associations: true
   interests:    true
   links:        true
   social_links: true
