@@ -19,9 +19,9 @@ periods:
     - August 1982: "David was born in Virginia Beach, Virginia"
   - name: 90's
   - events:
-    - October 1990:
-    - December 1990: 
-    - August 1994: 
+    - October 1990:"David was born in Virginia Beach, Virginia"
+    - December 1990: "David was born in Virginia Beach, Virginia"
+    - August 1994: "David was born in Virginia Beach, Virginia"
     - February 1995: 
     - December 1997: 
     - July 1998: 
@@ -29,8 +29,8 @@ periods:
     - June 1999: 
   - name: 2000's
     events:
-    - October 2000:
-    - August 2002: 
+    - October 2000:"David was born in Virginia Beach, Virginia"
+    - August 2002: "David was born in Virginia Beach, Virginia"
     - August 2002: 
     - September 2002:
     - July 2004: 
@@ -43,8 +43,8 @@ periods:
     - November 2009:
   - name: 2010's
     events:
-    - June 2010:
-    - October 2010: 
+    - June 2010:"David was born in Virginia Beach, Virginia"
+    - October 2010: "David was born in Virginia Beach, Virginia"
     - October 2011: 
     - December 2011:
     - May 2012: 
@@ -60,7 +60,7 @@ periods:
     - April 2019:
   - name: 2020's
     events:
-    - May 2020:
-    - October 2020: 
+    - May 2020:"David was born in Virginia Beach, Virginia"
+    - October 2020: "David was born in Virginia Beach, Virginia"
     - April 2021: 
     - May 2021:
