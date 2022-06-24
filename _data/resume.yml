@@ -1,0 +1,27 @@
+theme: default
+header:
+  name: David K. de Jesus
+  suffix: MCSA
+  display_contact_info: true
+  current_title: Corporate Development Lead
+  intro: >
+    Objective to transition into a full-time role in corporate development at a growth stage company. Completed education in venture capital, private equity, and alternative assets investing. Proficiencies include financial modeling, business valuations, funding strategy, and deal flow generation. Posses a high degree of intellectual curiosity, and deep understanding of industry trends.
+contact:
+  #address: Los Angeles, CA 91234
+  #phone: (206) 790-2320
+  email: dkdejesus@gmail.com
+sections:
+  experience:   true
+  education:    true
+  projects:     true
+  skills:       true
+  recognition:  true
+  associations: false
+  interests:    true
+  links:        true
+  social_links: false
+social:
+  Website:    http://zoosjuice.github.io
+  GitHub:     https://github.com/zoosjuice
+  Twitter:    https://twitter.com/zoosjuice
+  LinkedIn:   https://linkedin.com/in/davidkdejesus
