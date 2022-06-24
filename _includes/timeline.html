@@ -2,6 +2,9 @@
 
 <div class="container-fluid">
   <div class="header">
+    {% if timeline.title %}
+    <h2 class="timeline-title">{{ timeline.title }}</h2>
+    {% endif %}
     <h1>{{ site.title }}</h1>
     <p>Timelines are a fun way to visualize someone's life and get to know them quickly. This is my timeline, as of <a href="#bottom" title="Scroll to bottom">{{ site.time | date: '%B %Y' }}</a>.
       {% if site.linkedin %}
