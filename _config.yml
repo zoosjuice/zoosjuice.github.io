@@ -33,10 +33,41 @@ plugins:
 titles_from_headings:
   strip_title: true
   collections: true
+      
+# plugin: jekyll-titles-from-headings
+titles_from_headings:
+  strip_title: true
+
+collections:
+  personal: # collection for personal blog posts
+    output: true
+
+header_pages:
+  - resume.html
+  - archive.html
+  - books.md
+
+google_analytics:
+
+gravatar_hash: 51daffbe4af5fdb243cba3611b0a011a
+code_block_max_height: 500px
+
+home_post_limit: 5
 
 defaults:
   - scope:
       path: ""
-      type: post
     values:
-      tags: Other
+      image: https://s.gravatar.com/avatar/51daffbe4af5fdb243cba3611b0a011a?s=800 # Apply default site image
+  - scope:
+      path: ""
+      type: posts
+    values:
+      tags:
+        - Other # Add a default tag to all posts
+
+# Disable highlighting to use highlightJS instead
+# highlighter: none # Not supported by GitHub Pages
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
