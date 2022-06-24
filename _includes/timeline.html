@@ -14,7 +14,7 @@
   </div>
 
   <ul class="timeline timeline-split">
-    {% for period in site.periods %}
+    {% for period in timeline.periods %}
       {% if period.name %}
         <li class="timeline-item period">
           <div class="timeline-info"></div>
@@ -39,7 +39,7 @@
       {% endfor %}
     {% endfor %}
 
-    {% if site.show_today %}
+    {% if timeline.show_today %}
       <li class="timeline-item inactive">
         <div class="timeline-info">
           <span>Today</span>
