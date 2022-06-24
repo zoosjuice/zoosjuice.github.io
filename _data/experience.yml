@@ -1,27 +1,32 @@
 - company: "Krypton Ventures"
   summary: ""
   logo: ""
-  url: ""
-  positions: ""
-  - title: ""
-    startdate: ""
+  url: "https://gokrypton.com"
+  positions:
+  - title: "Venture Partner & Fund Advisor"
+    startdate: "12-01-2021 - Present"
     summary: ""
+    projects: ""
     
 - company: "Action Ventures"
   summary: ""
   logo: ""
-  url: ""
-  positions: ""
-  - title: ""
-    startdate: ""
+  url: "https://action.ventures"
+  positions:
+  - title: "Founder & Managing Director"
+    startdate: "01-01-2020 - Present"
     summary: ""
+    projects: ""
+
     
 - company: "AUGx"
   summary: ""
   logo: ""
   url: ""
-  positions: ""
+  positions:
   - title: ""
     startdate: ""
     summary: ""
+    projects: ""
+
     
