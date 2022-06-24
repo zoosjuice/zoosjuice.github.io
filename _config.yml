@@ -40,7 +40,7 @@ collections:
 
 header_pages:
   - resume.html
-  - archive.html
+  - archive.md
   - resources.md
 
 google_analytics:
