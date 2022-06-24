@@ -15,6 +15,9 @@ show_today: true
 # Your timeline is split into periods (e.g., decades, childhood/teens/adult, "Before Timeliner"/"After Timeliner", etc)
 # Each period has a list of events formatted as `- date: title`. If you don't want to have period dividers, leave out the name field.
 periods:
+  - events: 80's
+    - August 1982: "David was born in Virginia Beach, Virginia"
+  - name: 90's
   - events:
     - October 1990:
     - December 1990: 
