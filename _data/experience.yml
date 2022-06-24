@@ -1,13 +1,3 @@
-- company: ""
-  summary: "Established a track record of deals executed and established a network in the capital markets. In a three year period, advised and managed direct investments in 22 early-stage companies, with successful syndication, deployed $1 million in financing, resulting in $10 million raised, displaying a proven capacity to manage numerous work streams across a portfolio."
-  logo: ""
-  url: ""
-  positions:
-  - title: ""
-    startdate: ""
-    summary: "Established a track record of deals executed and established a network in the capital markets. In a three year period, advised and managed direct investments in 22 early-stage companies, with successful syndication, deployed $1 million in financing, resulting in $10 million raised, displaying a proven capacity to manage numerous work streams across a portfolio."
-    projects: ""
-
 - company: "Krypton Ventures"
   summary: ""
   logo: ""
@@ -15,8 +5,11 @@
   positions:
   - title: "Venture Partner & Fund Advisor"
     startdate: "12-01-2021 - Present"
-    summary: ""
-    projects: ""
+    summary: "Krypton Ventures Studio Fund focus is pre-ICO crypto projects. Focus on preparation for token launch on both centralized and decentralized token exchanges."
+    projects:
+      - "Responsibilities: Fund Advisory, Fundraising Strategy, Operational Playbook, Deal Flow Generation, Investor Relations"
+      - "Outcomes: 320x Public Token Raise, 3 Family Offices, 900 Top-of-funnel Crypto Investors, $10M Crypto fund"
+
     
 - company: "Action Ventures"
   summary: ""
@@ -25,18 +18,23 @@
   positions:
   - title: "Founder & Managing Director"
     startdate: "01-01-2020 - Present"
-    summary: ""
-    projects: ""
+    summary: "Action Ventures was launched in partnership with Venture University, as a primer for emerging fund managers to manage and operate a non-committed fund practice."
+    projects:
+      - "Responsibilities: Leading syndication deals in early-stage tech startups, investor relations, fund management"
+      - "Outcomes: 22 companies invested, 2 exits, 1200 deals reviewed, 100 LPs, $1M deployed, 60% IRR, 2 hires"
 
-    
 - company: "AUGx"
   summary: ""
   logo: ""
   url: ""
   positions:
-  - title: ""
-    startdate: ""
-    summary: ""
-    projects: ""
+  - title: "Founder & Operator"
+    startdate: "2016"
+    enddate: "2019"
+    summary: "AUGx was launched to fill an innovation gap at Red Bull, by strategically evaluating a pipeline of companies in the sports performance, lifestyle, and fitness sector to establish working relationships with Corporate Partners to enrich the athletic high-performance program."
+    projects:
+      - "Remote: Corporate innovation, strategic partnerships, business development, active portfolio management"
+      - "Outcomes: Seven figure revenue in contracts signed, 6 hires, 1 large corporate client, 12 deals, 1 client exit"
+
 
     
