@@ -16,51 +16,25 @@ show_today: true
 # Each period has a list of events formatted as `- date: title`. If you don't want to have period dividers, leave out the name field.
 periods:
   - events:
-    - August 1982: "David was born in Virginia Beach, Virginia"
+    - August 1982: "👶🏼 Born in Virginia Beach, Virginia"
+    - January 1983: "🏠 Moved to Barrow, Alaska"
   - name: 90's
     events:
-    - October 1990:"David was born in Virginia Beach, Virginia"
-    - December 1990: "David was born in Virginia Beach, Virginia"
-    - August 1994: "David was born in Virginia Beach, Virginia"
-    - February 1995: 
-    - December 1997: 
-    - July 1998: 
-    - March 1999: 
-    - June 1999: 
+    - September 1990: "💾 David sent his first email on an Apple II"
+    - August 1994: "🏠 Moved to Maple Valley, Washington"
   - name: 2000's
     events:
-    - October 2000:"David was born in Virginia Beach, Virginia"
-    - August 2002: "David was born in Virginia Beach, Virginia"
-    - August 2002: 
-    - September 2002:
-    - July 2004: 
-    - August 2004: 
-    - December 2005: 
-    - September 2006: 
-    - May 2007: 
-    - August 2007: 
-    - August 2008: 
-    - November 2009:
+    - May 2000: "🎓 Graduated from O'dea High School"
+    - December 2001: "👼🏽 had a son at 19, welcome Javi, dropped out of Seattle University"
+    - September 2008: "🎓 Finished Bachelors Degree online"
+    - November 2009: "Hired full time at Microsoft"
   - name: 2010's
     events:
-    - June 2010:"David was born in Virginia Beach, Virginia"
-    - October 2010: "David was born in Virginia Beach, Virginia"
-    - October 2011: 
-    - December 2011:
-    - May 2012: 
-    - June 2012:
-    - July 2012:
-    - August 2014:
-    - December 2014:
-    - July 2015:
-    - November 2015:
-    - January 2018:
-    - September 2018:
-    - January 2019:
-    - April 2019:
+    - June 2010: "Met future-wife Sandy"
+    - January 2014: "Married Sandy"
+    - September 2014: "Joined Red Bull Media House"
   - name: 2020's
     events:
-    - May 2020:"David was born in Virginia Beach, Virginia"
-    - October 2020: "David was born in Virginia Beach, Virginia"
-    - April 2021: 
-    - May 2021:
+    - January 2020: "Joined Venture University"
+    - March 2020: "Started Action Ventures Syndicate"
+    - December 2021: "Joined Krypton Ventures"
