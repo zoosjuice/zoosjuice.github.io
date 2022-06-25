@@ -41,7 +41,7 @@
   width: 15px;
 }
 .timeline-marker:before {
-  background: #FF6B6B;
+  background: #a705f2;
   border-radius: 100%;
   content: "";
   display: block;
