@@ -18,7 +18,7 @@ sections:
   recognition:  false
   associations: false
   interests:    false
-  links:        true
+  links:        false
   social_links: true
 social:
   Website:    http://zoosjuice.github.io
