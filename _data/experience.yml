@@ -1,6 +1,6 @@
 - company: "Krypton Venture Studio"
   summary: ""
-  logo: ""
+  logo: "/assets/logo-dark.e2b81bc1.png"
   url: "https://gokrypton.com"
   positions:
   - title: "Venture Partner & Fund Advisor"
@@ -13,7 +13,7 @@
     
 - company: "Action Ventures Investing Syndicate"
   summary: ""
-  logo: ""
+  logo: "/assets/action-fb.png"
   url: "https://action.ventures"
   positions:
   - title: "Founder & Managing Director"
@@ -26,7 +26,7 @@
 - company: "AUGx"
   summary: ""
   logo: ""
-  url: ""
+  url: "/assets/augx.png"
   positions:
   - title: "Founder & Operator"
     startdate: "01-01-2016"
