@@ -9,7 +9,7 @@
 # other is used. Lists are sorted and concatenated without line breaks separated by • (&bull;)
 
 - skill: "Full Stack Investing, Portfolio Management, Advisory"
-  description: "3 years building and managing an early-stage angel investment porfolio across consumer and enterprise startups."
+  description: "~3 years managing an early-stage angel investment porfolio across consumer and enterprise startups."
   list:
     - Business Valuations & Modeling
     - Market Research & Diligence
@@ -20,7 +20,7 @@
     - Digital Funnels
     - Growth Hacking
 - skill: "Full Stack Software Development"
-  description: "~10 years progression from self-taught mobile programmer to senior full stack developer"
+  description: "~10 years progression from tech analyst to senior full stack developer"
   list:
     - AWS Services
     - Google Firebase
