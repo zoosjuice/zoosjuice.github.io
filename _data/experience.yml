@@ -25,8 +25,8 @@
 
 - company: "AUGx"
   summary: ""
-  logo: ""
-  url: "/assets/augx.png"
+  logo: "/assets/augx.png"
+  url: ""
   positions:
   - title: "Founder & Operator"
     startdate: "01-01-2016"
