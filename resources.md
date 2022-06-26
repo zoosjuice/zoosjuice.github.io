@@ -8,7 +8,7 @@ My own library of tools and resources that have helped me navigate startups, inv
 
 It brings me joy to be able to share, and have all of these resources in one place.
 
-{% for category in site.data.bookmarks %}
+{% for category in site.data.resources %}
 {% assign items = category[1] | sort_natural: "name" %}
 ### {{ category[0] | capitalize }}:
 {% for item in items %}
