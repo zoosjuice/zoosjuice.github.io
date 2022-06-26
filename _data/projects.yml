@@ -1,14 +1,37 @@
 - project: Trainwaves
   role: Developer
-  duration: Dec, 2017 &mdash; Present
+  duration: Dec, 2016 &mdash; 2018
   url: "https://trainwaves-e2fd1.web.app/"
   description: >
     Developed through Red Bull x AUGx. The premise is an algorithm based playlist development for athletic performance.
+
+- project: SERO
+  role: Co-Founder
+  duration: 2018 &mdash; 2018
+  url: ""
+  description: >
+    Veilance / Mood Tracking App to self track mood for performance. Feature rich application for bettering mood. Shut down for market timing.
+
+- project: Fizio
+  role: Co-Founder
+  duration: 2018 &mdash; 2019
+  url: "https://fizio-staging.web.app/"
+  description: >
+    On-Demand fitness content marketplace, focused on new categories of discovery and exploration. The classification of videos was done with Machine Learning.
+    The primary value prop was content creators of fitness would be discoverable. Project was shut down due to co-founder relocation.
+    
+- project: Peerable
+  role: Founder
+  duration: 2020 &mdash; Present
+  url: "https://peerable-24135.web.app/"
+  description: >
+    Professional mentorship marketplace for upskilling. The primary value proposition was upskilling mentorships for working professionals to change careers
+    or learn a new skillset from people already working in those fields.
     
 - project: The Gallery Community
   role: Founder
   duration: 2020 &mdash; Present
   url: "https://gallery.community"
   description: >
-    Community chartered around supporting emerging studio fund managers. We held several weekly events that centered around venture studio founder
+    Online Community chartered around supporting emerging studio fund managers. We held several weekly events that centered around venture studio founder
     mentoring and advising.
